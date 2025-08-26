@@ -14,7 +14,7 @@ Aplikasi ini sudah di-deploy dan bisa diakses secara publik. Silakan coba langsu
 
 ### Tampilan Aplikasi
 
-![Tampilan Aplikasi Prediksi Rumah](![alt text](image.png))
+![alt text](image.png)
 
 ---
 
